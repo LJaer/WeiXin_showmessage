@@ -6,11 +6,9 @@
 
 ###效果图
 
-![pictures1](http://ohrmb94f1.bkt.clouddn.com/20161212001.png)
-
-![pictures2](http://ohrmb94f1.bkt.clouddn.com/20161212002.png)
-
-![pictures3](http://ohrmb94f1.bkt.clouddn.com/20161212003.png)
+<img src="http://ohrmb94f1.bkt.clouddn.com/20161212001.png" width = "300" height = "600" alt="图片名称" align=center />
+<img src="http://ohrmb94f1.bkt.clouddn.com/20161212002.png" width = "300" height = "600" alt="图片名称" align=center />
+<img src="http://ohrmb94f1.bkt.clouddn.com/20161212003.png" width = "300" height = "600" alt="图片名称" align=center />
 
 ###项目地址
 https://github.com/LJaer/WeiXin_showmessage.git
