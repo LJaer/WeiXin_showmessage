@@ -1,0 +1,14 @@
+<block wx:for="{{articleMsgs}}" wx:key="unique" wx:for-item="articleMsg">
+    <navigator url="/pages/articleDetail/articleDetail?articleId={{articleMsg.value.id}}">
+      <view class="articleMsg">
+        <view class="articleMsgTitle">
+          <image src="{{articleMsg.value.gameicon}}" class="gameicon"></image>
+          <text class="title">{{articleMsg.value.title}}</text>
+        </view>
+        <view class="articleMsgContent">
+          <image src="{{articleMsg.value.img}}" class="newsImg"></image>
+          <text class="news-content">{{articleMsg.value.content}}</text>
+        </view>
+      </view>
+    </navigator>
+  </block>

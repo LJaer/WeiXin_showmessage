@@ -1,0 +1,47 @@
+.articleMsg{
+  height: 300rpx;
+  border-bottom: solid 1px #ccc;
+}
+
+.articleMsgTitle{
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  height:80rpx;
+}
+
+.gameicon{
+  height:60rpx;
+  width:60rpx;
+  margin-top: 10rpx;
+  margin-left:10rpx;
+}
+
+.title{
+  height: 80rpx;
+  margin-top: 20rpx;
+  margin-left:20rpx;
+  font-size: 35rpx;
+}
+
+.articleMsgContent{
+  display: flex;
+  flex-direction: row;
+  height: 220rpx;
+}
+
+.newsImg{
+  width:300rpx;
+  height:200rpx;
+  margin-top: 5rpx;
+  margin-left: 10rpx;
+}
+
+.news-content{
+  width: 380rpx;
+  height: 180rpx;
+  margin-left: 40rpx;
+  margin-top: 10rpx;
+  overflow: hidden;
+  font-size: 30rpx;
+}

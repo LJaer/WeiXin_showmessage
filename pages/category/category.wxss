@@ -1,0 +1,35 @@
+
+
+#content{
+    width: 700rpx;
+    height: 100%;
+    margin-top: 10rpx;
+    margin-left: 25rpx;
+}
+
+.game{
+    display: flex;
+    flex-direction: column;
+    float: left;
+    width:200rpx;
+    height:350rpx;
+    margin-top: 10rpx;
+    margin-left: 20rpx;
+    border: solid 1px #000;
+}
+.categoryImg{
+    width: 200rpx;
+    height: 300rpx;
+}
+
+.gameNameView{
+    width: 200rpx;
+    height: 50rpx;
+}
+.gameName{
+    display: block;
+    text-align: center;
+    width: 200rpx;
+    height: 50rpx;
+    margin-top: 5rpx;
+}

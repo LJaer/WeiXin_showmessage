@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/category/category",
+    "pages/myself/myself",
+    "pages/articleDetail/articleDetail",
+    "pages/articleList/articleList"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#3bb5f5",
+    "navigationBarTitleText": "游戏信息",
+    "navigationBarTextStyle": "#000"
+  },
+  "tabBar": {
+    "color":"black",
+    "selectedColor":"#1296db",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/firstPage_normal.png",
+        "selectedIconPath": "images/firstPage_select.png"
+      },
+      {
+        "pagePath": "pages/category/category",
+        "text": "分类",
+        "iconPath": "images/sort_normal.png",
+        "selectedIconPath": "images/sort_select.png"
+      },
+      {
+        "pagePath": "pages/myself/myself",
+        "text": "我的",
+        "iconPath": "images/my_normal.png",
+        "selectedIconPath": "images/my_select.png"
+      }
+    ]
+  }
+}

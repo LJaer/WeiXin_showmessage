@@ -1,0 +1,14 @@
+<view class="container">
+  <view id="content">
+    <block wx:for="{{categorys}}" wx:key="unique" wx:for-item="category">
+      <navigator url="/pages/articleList/articleList?category={{category.category}}">
+        <view class="game">
+          <image src="{{category.img}}" class="categoryImg"></image>
+          <view class="gameNameView">
+            <text class="gameName">{{category.name}}</text>
+          </view>
+        </view>
+      </navigator>
+    </block>
+  </view>
+</view>
