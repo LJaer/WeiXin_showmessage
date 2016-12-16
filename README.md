@@ -6,10 +6,14 @@
 
 ###效果图
 
+效果图可能展示不全：传送门：http://oe53dpmqz.bkt.clouddn.com/20161216010.gif
+
 ![show](http://oe53dpmqz.bkt.clouddn.com/20161216010.gif)
 
 ###项目地址
-https://github.com/LJaer/WeiXin_showmessage.git
+csdn下载地址：
+
+github下载地址： https://github.com/LJaer/WeiXin_showmessage.git
 
 ###欢迎吐槽
 QQ:673820543
