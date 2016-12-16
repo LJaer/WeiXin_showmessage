@@ -11,7 +11,7 @@
 ![show](http://oe53dpmqz.bkt.clouddn.com/20161216010.gif)
 
 ###项目地址
-csdn下载地址：
+csdn下载地址：http://download.csdn.net/detail/zk673820543/9713093
 
 github下载地址： https://github.com/LJaer/WeiXin_showmessage.git
 
